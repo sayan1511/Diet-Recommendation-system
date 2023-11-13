@@ -1,0 +1,134 @@
+Fi'd,Group,Name,Weight/Volume (g/ml),Energy (Kcals)
+F-1,veg,Rice (Brown),100,353.7
+F-2,veg,Rice Parboiled,100,351.5
+F-3,veg,Rice Raw milled,100,356.3
+F-4,veg,Wheat whole,100,321.9
+F-5,veg,Wheat flour,100,320.2
+F-6,veg,Bulgar wheat,100,341.7
+F-7,veg,Refined flour,100,351.8
+F-8,veg,Ragi,100,320.7
+F-9,veg,Rice flakes,100,353.7
+F-10,veg,Wheat semolina,100,333.6
+F-11,veg,Wheat vermicelli,100,332.6
+F-12,veg,Barley,100,315.7
+F-13,veg,Bajra,100,347.9
+F-14,veg,Jowar,100,334.1
+F-15,veg,Quinoa,100,328.3
+F-16,veg,"Amaranth seed, Black",100,356.1
+F-17,veg,Apple,100,62.3
+F-18,veg,"Apricot, dried",100,31.5
+F-19,veg,Avocado,100,144.3
+F-20,veg,Banana,100,110.6
+F-21,veg,Blackberry fruit,100,54.2
+F-22,veg,Cherries red,100,59.7
+F-23,veg,Blackcurrants,100,54.2
+F-24,veg,Custard apple,100,98.9
+F-25,veg,"Dates, dry",100,320.2
+F-26,veg,Fig,100,81.5
+F-27,veg,Grapes,100,60.7
+F-28,veg,Guava,100,32.2
+F-29,veg,Jack fruit,100,72.1
+F-30,veg,Sweet lime,100,27.2
+F-31,veg,Litchi,100,53.7
+F-32,veg,Mango,100,41.8
+F-33,veg,Musk melon,100,23.1
+F-34,veg,Orange,100,37.2
+F-35,veg,Papaya,100,23.9
+F-36,veg,"Bengal gram, dal",100,329.1
+F-37,veg,"Bengal gram, whole",100,287
+F-38,veg,Black gram whole,100,291.3
+F-39,veg,"Cow pea, brown",100,320.2
+F-40,veg,"Cow pea, white",100,320.2
+F-41,veg,Green gram dal,100,325.7
+F-42,veg,"Green gram, whole",100,293.7
+F-43,veg,"Horse gram, whole",100,329.5
+F-44,veg,Lentil dal,100,322.4
+F-45,veg,"Peas, dry",100,303.2
+F-46,veg,"Rajma, red",100,299.2
+F-47,veg,"Red gram, dal",100,330.7
+F-48,veg,"Red gram, whole",100,273.9
+F-49,veg,"Soya bean, brown",100,381.4
+F-50,veg,Beetroot,100,35.6
+F-51,veg,Carrot,100,33.2
+F-52,veg,Potato brown,100,69.7
+F-53,veg,"Radish,white",100,32.2
+F-54,veg,"Sweet potato,brown",100,108.9
+F-55,veg,Tapioca,100,79.8
+F-56,veg,Yam,100,84.3
+F-57,veg,Amaranth leaves,100,30.5
+F-58,veg,Beet greens,100,34.6
+F-59,veg,Brussels sprouts,100,44.2
+F-60,veg,Cabbage Chinese,100,17.9
+F-61,veg,"Cabbage, green",100,21.5
+F-62,veg,Cauliflower leaves,100,35.4
+F-63,veg,"Colocasia leaves, green",100,43.4
+F-64,veg,Drumstick leaves,100,67.3
+F-65,veg,Fenugreek leaves,100,34.4
+F-66,veg,Lettuce,100,21.7
+F-67,veg,Mustard leaves,100,30.3
+F-68,veg,Parsley,100,72.8
+F-69,veg,Radish leaves,100,26.05
+F-70,veg,Spinach,100,24.3
+F-71,veg,Almond,100,609.2
+F-72,veg,Arecanut dried,100,350.6
+F-73,veg,Cashew nut,100,582.6
+F-74,veg,Coconut dry,100,624
+F-75,veg,Coconut fresh,100,408.9
+F-76,veg,Gingelly seeds,100,507.6
+F-77,veg,Ground nut,100,520
+F-78,veg,Linseeds,100,443.8
+F-79,veg,Pine seed,100,594.1
+F-80,veg,Pistachio nuts,100,539.4
+F-81,veg,Sunflower seeds,100,586.2
+F-82,veg,Walnut,100,671
+F-83,veg,Flax seeds,100,534
+F-84,veg,Chia seeds,100,486
+F-85,veg,Ash gourd,100,17.4
+F-86,veg,"Bamboo shoot, tender",100,16.2
+F-87,veg,Bitter gourd,100,20.7
+F-88,veg,Bottle gourd,100,10.9
+F-89,veg,Brinjal,100,25.3
+F-90,veg,Broad beans,100,29.3
+F-91,veg,Capsicum,100,16.2
+F-92,veg,Cauliflower,100,22.9
+F-93,veg,Celery stalk,100,16.4
+F-94,veg,Cho-Cho-Marrow,100,18.8
+F-95,veg,Cluster beans,100,40.1
+F-96,veg,Cucumber,100,19.5
+F-97,veg,French beans,100,24.3
+F-98,veg,Knol-Khol,100,16
+F-99,veg,Kovai,100,19.1
+F-100,veg,Ladies finger,100,27.4
+F-101,veg,Parwar,100,24.1
+F-102,veg,"Peas,fresh",100,81.2
+F-103,veg,Plantain stem,100,39.4
+F-104,non-veg,"Egg, whole, raw",100,134.7
+F-105,non-veg,"Egg white, raw",100,44.6
+F-106,non-veg,"Egg, yolk, raw",100,296.8
+F-107,non-veg,"Chicken, leg, skinless",100,383.6
+F-108,non-veg,"Chicken, thigh, skinless",100,199.8
+F-109,non-veg,"Chicken, breast, skinless",100,168.2
+F-110,non-veg,"Chicken, liver",100,123.8
+F-111,non-veg,Goat,100,188
+F-112,non-veg,"Sheep, shoulder",100,200.7
+F-113,non-veg,"Sheep, chops",100,118.5
+F-114,non-veg,"Beef, chops",100,139.8
+F-115,non-veg,"Pork, shoulder",100,237.3
+F-116,non-veg,"Pork, chops",100,178.7
+F-117,non-veg,Chia seeds,100,486
+F-118,non-veg,Cat fish,100,108.9
+F-119,non-veg,Mackerel,100,101
+F-120,non-veg,Matha,100,92.9
+F-121,non-veg,Pomfret,100,123
+F-122,non-veg,Salmon,100,172.3
+F-123,non-veg,Sardine,100,152.2
+F-124,non-veg,Shark,100,95.1
+F-125,non-veg,Silver fish,100,132.6
+F-126,non-veg,Catla,100,94.1
+F-127,non-veg,Tuna,100,112.3
+F-128,non-veg,Crab,100,81.9
+F-129,non-veg,Lobster,100,89.6
+F-130,non-veg,Oyster,100,60.2
+F-131,non-veg,Tiger prawns,100,65.2
+F-132,non-veg,Clam,100,58
+F-133,non-veg,Squid,100,80
